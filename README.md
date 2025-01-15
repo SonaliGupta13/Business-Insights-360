@@ -66,4 +66,34 @@ There are mainly 2 types of Data Source are used for this project:
 
 - Used DAX Studio to enhanced performance optimization and improve overall efficiency.
 
+## Insights:
 
+- Atliq's Sales: Despite an upward trend, Atliq's net sales fell short of the 2022 target.
+
+- Net Sales Performance: In March 2020, net sales were lower compared to March 2019. However, post-March 2020, monthly net sales have steadily improved.
+
+- Declining Networking Segment: The networking segment is experiencing the most significant decline in the EU region, particularly in France and the Netherlands. Understanding the reasons behind this decline is crucial.
+
+- USA Segment Losses: The USA segment is reporting losses, signaling a need for strategic evaluation.
+
+- Notebook Division Growth: The notebook division is performing well in terms of net sales.
+
+- Forecast Accuracy Decline: Forecast accuracy dropped sharply in 2021 due to COVID-19 restrictions, as customers avoided physical stores.
+
+- Amazon Performance Concerns: Despite generating high revenue, Amazon struggles with gross margin and net profit percentages.
+
+- Market Share Growth: Atliq Hardware's market share grew significantly, from 1.1% in 2021 to 5.9% in 2022.
+
+## Recommendations:
+
+- Atliq's Sales: Review sales targets, optimize product offerings, expand distribution channels, and enhance marketing strategies to drive sales and achieve future targets.
+
+- Declining Networking Segment: Conduct market research to identify specific challenges in France and the Netherlands, such as competition or regulatory hurdles.
+
+- USA Segment Losses: Focus on high-margin products and optimize supply chain efficiency in the region.
+
+- Forecast Accuracy Decline: Implement advanced demand forecasting models using real-time data and machine learning to improve accuracy.
+
+- Amazon Performance Concerns: To improve NP% & GM% atliq’s should focus on reducing pre & post invoice deduction.
+
+- Market Share Growth: Capitalize on the increased market share by launching innovative products and expanding into new regions.
